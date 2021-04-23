@@ -8,7 +8,7 @@
 
 .💬 Ask me about Flutter,Python or any tech related stuff.
 
-.📫 How to reach me: Twitter - @ChetanSingh1810
+.📫 How to reach me: Twitter - @ChetanSingh1810(https://twitter.com/ChetanSingh1810).
 
 .⚡ Fun fact: Gaming and Coding all the way..
 -->
