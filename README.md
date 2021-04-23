@@ -13,4 +13,4 @@
 .⚡ Fun fact: Gaming and Coding all the way..
 
 
-(https://github-readme-stats.vercel.app/api?username=eleCtrik18)](https://github.com/eleCtrik18/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=eleCtrik18&&show_icons&true&title_color=ffffff&icon_color=bb2acf&text_color=da7dc&bg_color=151515
