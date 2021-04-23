@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-.🔭 I’m currently working on Frontier.
+.🔭 I’m currently working on ShopCart a flutter project.
 
 .🌱 I’m currently learning more about Flask and WebDev.
 
