@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Chetan Singh 👋
 
 .🔭 I’m currently working on ShopCart a flutter project.
 
