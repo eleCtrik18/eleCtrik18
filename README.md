@@ -1,17 +1,13 @@
-### Hi there, I'm Chetan Singh 👋
+ ### Hi there, I'm Chetan Singh 👋
 
 
 
-## I'm a Student!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+ ## I'm a Student!!
+ MS Ramaiah Institute of Technology(2019-2023)
 
 
-.🔭 I’m currently working on ShopCart a flutter project.
+
+.🔭 I’m currently working on ShopCart, a flutter project.
 
 .🌱 I’m currently learning more about Flask and WebDev.
 
@@ -44,12 +40,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 <br />
-<br />
-
-
----
-
-</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -61,5 +51,5 @@
 
 [twitter]: https://twitter.com/ChetanSingh1810
 [instagram]: https://instagram.com/chetan.singh18
-[linkedin]: linkedin.com/in/chetan-singh-763316156
+[linkedin]: https://linkedin.com/in/chetan-singh-763316156
 
