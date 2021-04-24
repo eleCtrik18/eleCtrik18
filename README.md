@@ -2,7 +2,7 @@
 
 
 
- ## I'm a Student!!
+ ### I'm a Student!!
  MS Ramaiah Institute of Technology(2019-2023)
 
 
@@ -41,7 +41,6 @@
 
 <br />
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eleCtrik18&show_icons=true&hide_border=true" />
