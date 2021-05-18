@@ -7,7 +7,7 @@
 
 
 
-.🔭 I’m currently working on ShopCart, a flutter project.
+.🔭 I’m currently working on LinkWork, a flutter project.
 
 .🌱 I’m currently learning more about Flask and WebDev.
 
