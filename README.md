@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Electronics and Telecommunication Engineering at RIT Bangalore.
 
-- 🌱 &nbsp; Learning about Flask, Django and MySQL
+- 🌱 &nbsp; Learning about Flask , MySQL and Finance
 
 - ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
 
