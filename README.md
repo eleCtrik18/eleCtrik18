@@ -1,58 +1,95 @@
- ### Hi there, I'm Chetan Singh 👋
+### Hi there 👋<h2> I'm Chetan Singh</h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<h3> 👨🏻•💻 About Me </h3>
 
 
 
- ### I'm a Student!!
- MS Ramaiah Institute of Technology(2019-2023)
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+
+- 🎓 &nbsp; Studying Electronics and Telecommunication Engineering at RIT Bangalore.
+
+- 🌱 &nbsp; Learning about Flask, Django and MySQL
+
+- ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
 
 
 
-.🔭 I’m currently working on LinkWork, a flutter project.
-
-.🌱 I’m currently learning more about Flask and WebDev.
-
-.👯 I’m looking to collaborate on Flutter.
-
-.💬 Ask me about Flutter,Python or any tech related stuff.
-
-.⚡ Fun fact: Gaming and Coding all the way..
-
-
-### Connect with me:
+<h3>🛠 Tech Stack</h3>
 
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 💻 &nbsp; Python | C++ | Dart | C | Firebase
 
-<br />
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 
-### Languages and Tools:
+<!--
 
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"/>]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
+- 🛢 &nbsp; MySQL 
 
-<br />
+- 🔧 &nbsp; Git | Markdown 
 
-  <summary>:zap: GitHub Stats</summary>
+- 🖥 &nbsp; Illustrator| Photoshop | Filmora | LightRoom
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=eleCtrik18&show_icons=true&hide_border=true" />
-
-<br />
+-->
 
 
 
-</details>
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp;  MySQL | Node JS
+
+<hr>
 
 
-[twitter]: https://twitter.com/ChetanSingh1810
-[instagram]: https://instagram.com/chetan.singh18
-[linkedin]: https://linkedin.com/in/chetan-singh-763316156
 
+<br/><br/>
+
+[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eleCtrik18&show_icons=true)](https://github.com/eleCtrik18)
+
+<br/>
+
+<br/>
+
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eleCtrik18&show_icons=true)
+
+<br><br>
+
+
+
+<hr>
+
+
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<br>
+
+
+
+<p align="center">
+
+
+
+<a href="https://www.linkedin.com/in/chetan-singh-763316156/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Chetan%20Singh-blue?style=flat-square&logo=linkedin"></a>
+
+<a href="https://www.instagram.com/chetan.singh18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chetan.singh18-red?style=flat-square&logo=instagram"></a>
+
+<a href="mailto:singhchetan0542@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhchetan0542@gmail.com-green?style=flat-square&logo=gmail"></a>
+
+</p>
+
+
+
+
+
+![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=eleCtrik18.eleCtrik18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
+
+
+
+
+
+<hr>
