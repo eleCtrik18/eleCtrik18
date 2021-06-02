@@ -22,8 +22,9 @@
 
 - 💻 &nbsp; Python | C++ | Dart | C | Firebase
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+
+- 📚 &nbsp; MS Excel
 
 <h3>🛠 Other Hobbies and Tools</h3>
 
