@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying Electronics and Telecommunication Engineering at RIT Bangalore.
 
-- 🌱 &nbsp; Learning about Flask , MySQL and Finance
+- 🌱 &nbsp; Learning about Flask , SQLite and Finance
 
 - ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
 
@@ -23,22 +23,15 @@
 - 💻 &nbsp; Python | C++ | Dart | C | Firebase
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
+- 
 
-<!--
+<h3>🛠 Other Hobbies and Tools</h3>
 
-- 🛢 &nbsp; MySQL 
-
-- 🔧 &nbsp; Git | Markdown 
+- 📸 &nbsp; Photography 
 
 - 🖥 &nbsp; Illustrator| Photoshop | Filmora | LightRoom
 
--->
 
-
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp;  MySQL | Node JS
 
 <hr>
 
