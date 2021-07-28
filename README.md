@@ -20,7 +20,7 @@
 
 
 
-- 💻 &nbsp; Python | C++ | Dart | C | Firebase
+- 💻 &nbsp; Python | C++ | Dart | JS | Firebase
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
 
