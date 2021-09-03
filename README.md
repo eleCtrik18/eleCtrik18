@@ -10,9 +10,9 @@
 
 - 🎓 &nbsp; Studying Electronics and Telecommunication Engineering at RIT Bangalore.
 
-- 🌱 &nbsp; Learning about MERN stack and Finance
+- 🌱 &nbsp; Learning about MERN stack/Flutter and Finance
 
-- ✍️ &nbsp; Pursuing App Development as hobbies/side hustles.
+
 
 
 
