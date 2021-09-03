@@ -20,9 +20,9 @@
 
 
 
-- 💻 &nbsp; Python | C++ | Dart | JS | Firebase
+- 💻 &nbsp; Flutter | MERN | Firebase
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap
+- 🌐 &nbsp; HTML | CSS | JavaScript | Dart | C++ | Python 
 
 - 📚 &nbsp; MS Excel
 
