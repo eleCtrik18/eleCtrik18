@@ -30,7 +30,7 @@
 
 - 📸 &nbsp; Photography 
 
-- 🖥 &nbsp; Illustrator| Photoshop | Filmora | LightRoom
+- 🖥 &nbsp; Figma| Photoshop | Filmora | LightRoom
 
 
 
