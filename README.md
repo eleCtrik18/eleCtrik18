@@ -4,7 +4,7 @@
 
 <h3> 👨🏻 About Me </h3>
 
-
+- 🤔 &nbsp; SDE 1 @SAP Labs.
 
 - 🤔 &nbsp; SDE Intern @CoinSwitch.
 
@@ -24,12 +24,6 @@
 <a href="https://www.instagram.com/chetan.singh18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-chetan.singh18-red?style=flat-square&logo=instagram"></a>
 
 <a href="mailto:singhchetan0542@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-singhchetan0542@gmail.com-green?style=flat-square&logo=gmail"></a>
-
-</p>
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=eleCtrik18.eleCtrik18)   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
-
-
-
 
 
 <hr>
