@@ -9,10 +9,10 @@
 
 ### Tech Stack 🛠
 
-- 💻 Languages: Python | Go | JavaScript
-- 🧰 Tools: Visual Studio Code | Git | Docker | AWS
-- 📚 Frameworks: Django | Flask | React
-- 🌐 Databases: PostgreSQL | MongoDB
+- 💻 Languages: Python | Go | JavaScript | Java
+- 🧰 Tools: Git | Docker | AWS
+- 📚 Frameworks: Django | Flask | Node JS | Spring | Gin
+- 🌐 Databases: PostgreSQL | MongoDB | FireBase
 
 ### Connect with Me 🤝
 
