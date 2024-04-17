@@ -2,9 +2,9 @@
 ## Chetan Singh 
 
 ### About Me:
-
-- 🌟 Software Development Engineer 1 @SAP Labs.
-- 🚀 Former Software Development Engineer Intern @CoinSwitch.
+-  Freelancer(Yes other than my Full time Job)
+-  Software Development Engineer 1 @SAP Labs.
+-  Former Software Development Engineer Intern @CoinSwitch.
 
 ### Tech Stack:
 
