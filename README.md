@@ -1,19 +1,19 @@
 
 ## Chetan Singh 
 
-### About Me
+### About Me:
 
 - 🌟 Software Development Engineer 1 @SAP Labs.
 - 🚀 Former Software Development Engineer Intern @CoinSwitch.
 
-### Tech Stack 🛠
+### Tech Stack:
 
 - 💻 Languages: Python | Go | JavaScript | Java
 - 🧰 Tools: Git | Docker | AWS
 - 📚 Frameworks: Django | Flask | Node JS | Spring | Gin
 - 🌐 Databases: PostgreSQL | MongoDB | FireBase
 
-### Connect with Me 🤝
+### Just In Case:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chetan-singh-763316156/">
