@@ -1,5 +1,5 @@
 
-## I'm Chetan Singh 
+## Chetan Singh 
 
 ### About Me
 
