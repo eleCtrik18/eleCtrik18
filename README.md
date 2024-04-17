@@ -2,6 +2,7 @@
 ## Chetan Singh 
 
 ### About Me:
+-  Building AuraGold a digital gold trading platform.
 -  Freelancer(Yes other than my Full time Job), check my website for more info.
 -  Software Development Engineer 1 @SAP Labs.
 -  Former Software Development Engineer Intern @CoinSwitch.
