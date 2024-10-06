@@ -8,7 +8,8 @@
 
 ### Tech Stack:
 
-- I know pretty much everything :)
+- I know pretty much everything :) but if you wanna dive into the details then Python is what I do most of the time with Goalang and JS as side chicks.
+- Java when having a really bad day.
 
 ### Just In Case:
 
