@@ -8,10 +8,7 @@
 
 ### Tech Stack:
 
-- 💻 Languages: Python | Go | JavaScript | Java
-- 🧰 Tools: Git | Docker | AWS
-- 📚 Frameworks: Django | Flask | Node JS | Spring | Gin
-- 🌐 Databases: PostgreSQL | MongoDB | FireBase
+- I know pretty much everything :)
 
 ### Just In Case:
 
