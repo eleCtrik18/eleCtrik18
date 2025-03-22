@@ -3,8 +3,8 @@
 
 ### About Me:
 -  Co-Founder at AuraGold a digital gold and silver trading platform.
--  Software Development Engineer @SAP Labs.
--  Former SWE Intern @CoinSwitch.
+-  Ex Software Development Engineer @SAP Labs.
+-  Ex SWE Intern @CoinSwitch.
 
 ### Tech Stack:
 
