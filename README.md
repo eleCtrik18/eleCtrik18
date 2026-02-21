@@ -9,7 +9,7 @@
 ### Tech Stack:
 
 - I know pretty much everything :) but if you wanna dive into the details then Python is what I do most of the time with Golang and JS as side chicks.
-- Java when having a really bad day.
+- Java when having a really bad day(not anymore lol)
 
 ### Just In Case:
 
