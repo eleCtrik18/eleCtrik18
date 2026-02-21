@@ -2,7 +2,7 @@
 ## Chetan Singh 
 
 ### About Me:
--  Co-Founder at AuraGold a digital gold and silver trading platform.
+-  Co-Founder at AuraGold a digital gold and silver investment platform.
 -  Ex Software Development Engineer @SAP Labs.
 -  Ex SWE Intern @CoinSwitch.
 
